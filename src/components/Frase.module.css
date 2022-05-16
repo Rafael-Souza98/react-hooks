@@ -1,0 +1,11 @@
+.fraseContainer{
+    background-color: #333;
+    font-family: Geneva;
+    border: 1px solid #ffff;
+}
+.frasContent{
+    font-family: Geneva;
+    color: #ffff;
+    margin: 0;
+    background-color: red;
+}
